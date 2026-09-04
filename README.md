@@ -109,7 +109,7 @@
     }
 
     .btn-secondary {
-      background-color: var(--secondary);
+      background-color:i var(--secondary);
       color: #ffffff;
     }
 
@@ -716,8 +716,8 @@
         <div class="footer-col">
           <h4>Contact Info</h4>
           <p>📍 Bowenpally, Anjaiah Nagar, Secunderabad, Hyderabad</p>
-          <p>📞 +91 63056 82369</p>
-          <p>✉️ Vishnuvaddevishnu63@gmail.com</p>
+          <p>📞 +91 </p>
+          <p>✉️ </p>
         </div>
       </div>
       <div class="footer-bottom">
