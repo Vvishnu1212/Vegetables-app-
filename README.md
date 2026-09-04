@@ -621,7 +621,7 @@
             <div class="info-icon">📞</div>
             <div>
               <strong>Phone / Call:</strong>
-              <p><a href="tel:6305682369">+91 63056 82369</a></p>
+              <p><a href="tel:">+91 </a></p>
             </div>
           </div>
           
@@ -629,7 +629,7 @@
             <div class="info-icon">✉️</div>
             <div>
               <strong>Email Us:</strong>
-              <p><a href="mailto:Vishnuvaddevishnu63@gmail.com">Vishnuvaddevishnu63@gmail.com</a></p>
+              <p><a href="mailto:gmail.com"> </a></p>
             </div>
           </div>
 
@@ -637,7 +637,7 @@
             <div class="info-icon">💬</div>
             <div>
               <strong>WhatsApp:</strong>
-              <p><a href="https://wa.me/916305682369" target="_blank">+91 63056 82369</a></p>
+              <p><a href="https://wa.me/91 " target="_blank">+91 </a></p>
             </div>
           </div>
         </div>
